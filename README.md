@@ -19,7 +19,7 @@ Any bugs noted you can email me for clarification.
 .javascript
 .bootstrap
 .markdown
-##BDD
+## BDD
 |INPUTS        | DESCRIPTION                                |OUTPUT       |
 | ------------- |:-------------:| -----:|
 | Century      |  The century that the user was born in     | eg 20th     |
@@ -29,7 +29,7 @@ Any bugs noted you can email me for clarification.
 |Day of birth  |  The day of the week that the user was born| eg Tuesday  |
 |Akan name     |  	The corresponding Akan name for the user|  eg Kofi    |
 ## CONTACT INFO:
-You can email at:<a href="https://mail.google.com/">view</a>
+You can email at:mwangitabitha2020@gmail.com
 ## LICENSE:
 MIT License
 
