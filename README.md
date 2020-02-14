@@ -8,7 +8,7 @@ The project is about using users birthday details input to calculate the day of 
 You:
 .First create a Github repo
 .Click on the active site to view the project
-##LINK TO LIVE SITE:
+## LINK TO LIVE SITE:
 Here is my link to my project
 <a href="https://tw8130.github.io/Akhan-Names/">veiw</a>
 ## KNOWN BUGS:
