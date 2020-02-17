@@ -1,3 +1,28 @@
 body {
   background-color: pink;
 }
+body {
+  background-color: pink;
+}
+h1 {
+  font-weight: bolder;
+}
+.container {
+  font-style: italic;
+}
+.jumbotron {
+  color:#0E0228;
+  font-size: 20px;
+  font-weight: bold;
+  background-image: url("https://bit.ly/2SoKxfi")
+}
+.magical {
+  color:#1960B6;
+  background-image: url("https://bit.ly/2HnW08E");
+}
+.wonder {
+  color: #20B619;
+  font-size: 20px;
+  font-weight: 200;
+  background-image: url("https://bit.ly/2uFpqMV");
+}

@@ -20,34 +20,37 @@
       As a matter of fact, it is possible to tell what led to someone’s birth, the day they were born and their rank among the siblings just by their names. This is why you need to read this article to know more about Akan names and their meanings.
       </p></div>
 <div class="wonder">
+  <div class="card">
+    <div class="card-title">
   <h2>INPUT FORM</h2>
     <p>To know your akhan name fill out this form:
+    </div>
 </div>
+    <div class="card-body">
     <div class="magical">
       <p>Enter Gender:
       <form class="radio-button">
         <input type="radio" class="genders labels" value="male" id="rad1" name="rads" required>Male
         <input type="radio" class="genders labels" value="female" id="rad1" name="rads" required>Female
     </form></p></div>
-      <button type= "button" onclick="gender()">Click</button>
-      <form>
-      <label for="fname">Name:</label><br>
-      <input type="text" id="fname" name="fname"><br>
       <form>
       <label for="ckan">Century:</label><br>
-      <input type="text" id="ckan" name="ckan"><br>
+      <input type="text" placeholder="enter century" id="ckan" name="ckan" required  min="0" max="30"><br>
       <form>
       <label for="mkan">Month:</label><br>
-      <input type="text" id="mkan" name="mkan"><br>
+      <input type="text" placeholder="enter month" id="mkan" name="mkan" required  min="0" max="12"><br>
       <form>
       <label for="ykan">Year:</label><br>
-      <input type="text" id="ykan" name="ykan"><br>
+      <input type="text"  placeholder="enter year"id="ykan" name="ykan" required min="0" max="100"><br>
       <form>
       <label for="dkan">Day of month:</label><br>
-      <input type="text" id="dkan" name="dkan"><br>
+      <input type="text" placeholder="enter day of month" id="dkan" name="dkan" required min="0" max="12"><br>
     </form>
-        <button type="button" onclick="form input()">Submit</button>
-        <button type="button" onclick="form input()">Reset</button>
+     </div>
+   </div>
+    <a href="#result"><button type="button" name="button" class="btn btn-primary mb-2" onclick="checkDayOfWeek();">Calculate birth entry details</button></a>var century, year, month, dayOfMonth, dayOfWeek, day;
+    <h1 id="result"></h1>
+
 
 
 
