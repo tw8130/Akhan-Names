@@ -35,25 +35,22 @@
     </form></p></div>
       <form>
       <label for="ckan">Century:</label><br>
-      <input type="text" placeholder="enter century" id="ckan" name="ckan" required  min="0" max="30"><br>
+      <input type="number" placeholder="enter century" id="century" name="ckan" required  min="0" max="30"><br>
       <form>
       <label for="mkan">Month:</label><br>
-      <input type="text" placeholder="enter month" id="mkan" name="mkan" required  min="0" max="12"><br>
+      <input type="number" placeholder="enter month" id="month" name="mkan" required  min="0" max="12"><br>
       <form>
       <label for="ykan">Year:</label><br>
-      <input type="text"  placeholder="enter year"id="ykan" name="ykan" required min="0" max="100"><br>
+      <input type="number"  placeholder="enter year"id="year" name="ykan" required min="0" max="100"><br>
       <form>
       <label for="dkan">Day of month:</label><br>
-      <input type="text" placeholder="enter day of month" id="dkan" name="dkan" required min="0" max="12"><br>
+      <input type="number" placeholder="enter day of month" id="monthday" name="dkan" required min="0" max="12"><br>
     </form>
      </div>
    </div>
-    <a href="#result"><button type="button" name="button" class="btn btn-primary mb-2" onclick="checkDayOfWeek();">Calculate birth entry details</button></a>var century, year, month, dayOfMonth, dayOfWeek, day;
-    <h1 id="result"></h1>
-
-
-
-
-
+   <div class="card-footer">
+    <a href="#result"><button type="button" name="button" class="btn btn-primary mb-2" onclick="checkDayOfWeek();">Calculate birth entry details</button></a>
+     <h1 id="result"></h1>
+   </div>
   </body>
 </html>
