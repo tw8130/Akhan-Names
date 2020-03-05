@@ -21,8 +21,7 @@ Any bugs noted you can email me for clarification.
 .markdown
 ## BDD
 |INPUTS        | DESCRIPTION                                |OUTPUT       |
-| ------------- |:-------------:| -----:|
-| Century      |  The century that the user was born in     | eg 20th     |
+| ------------- |:-------------:                            |       -----:|
 |Year          |  The year of the century                   | eg 1999     |       
 |Month         |  The month of the year                     | eg 01      |
 |Day of birth  |  The day of the week that the user was born| eg 01  |
