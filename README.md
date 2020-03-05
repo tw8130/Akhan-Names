@@ -2,35 +2,34 @@
  #### Akan people</a></b> of  <a title="Ghana">Ghana</a> frequently name their children after the day of the week they were born and the order in which they were born. These "day names" have further meanings concerning the soul and character of the person. Middle names have considerably more variety and can refer to their birth order, twin status, or an ancestor's middle name.
 ## AUTHOR:
 By Tabitha Wanjiku
-##DESCRIPTION:
+## DESCRIPTION:
 The project is about using users birthday details input to calculate the day of the week born they    were born depending on gender and output their akhan name.
-##SETUP INSTALLATION:
+## SETUP INSTALLATION:
 You:
 .First create a Github repo
 .Click on the active site to view the project
-##LINK TO LIVE SITE:
+## LINK TO LIVE SITE:
 Here is my link to my project
 <a href="https://tw8130.github.io/Akhan-Names/">veiw</a>
-##KNOWN BUGS:
+## KNOWN BUGS:
 Any bugs noted you can email me for clarification.
-##TECHNOLOGIES USED:
+## TECHNOLOGIES USED:
 .html
 .css
 .javascript
 .bootstrap
 .markdown
-##BDD
+## BDD
 |INPUTS        | DESCRIPTION                                |OUTPUT       |
 | ------------- |:-------------:| -----:|
 | Century      |  The century that the user was born in     | eg 20th     |
-|Year          |  The year of the century                   | eg 98th     |       
-|Month         |  The month of the year                     | eg 7th      |
-|Date          |  The day of the month                      | eg 15th day |
-|Day of birth  |  The day of the week that the user was born| eg Tuesday  |
+|Year          |  The year of the century                   | eg 1999     |       
+|Month         |  The month of the year                     | eg 01      |
+|Day of birth  |  The day of the week that the user was born| eg 01  |
 |Akan name     |  	The corresponding Akan name for the user|  eg Kofi    |
-##CONTACT INFO:
+## CONTACT INFO:
 You can email at:<a href="https://mail.google.com/">view</a>
-##LICENSE:
+## LICENSE:
 MIT License
 
 Copyright (c) [2020] Tabitha Wanjiku]
